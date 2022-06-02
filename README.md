@@ -1,16 +1,13 @@
 # repos-version
 app to get all repository versions inside current directory
 
-
 ## STEPS
 
 1. run `npm install`
 
 2. Remember to change the `displayName` property inside `package.json` file.
 
-3. If you are and admin trying to create the final file with the latest version of every repo by dev set the `.env` `IS_ADMIN_TASK` variable to true.
-
-4. After push your changes check your name in the list by editing readme.
+3. After push your changes check your name in the list by editing readme.
 
 - [ ] Agustin Reynaud
 - [ ] Franco Oropel
@@ -30,3 +27,5 @@ app to get all repository versions inside current directory
 - [ ] Jorge Baccaro
 - [ ] Dario Silva
 - [ ] Jeremias Andrade Rosales
+
+### If you are and admin trying to create the final file with the latest version of every repo by dev set the `.env` `IS_ADMIN_TASK` variable to true.
