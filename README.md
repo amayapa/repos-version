@@ -28,4 +28,4 @@ app to get all repository versions inside current directory
 - [ ] Dario Silva
 - [ ] Jeremias Andrade Rosales
 
-### If you are and admin trying to create the final file with the latest version of every repo by dev set the `.env` `IS_ADMIN_TASK` variable to true.
+### If you are and admin trying to create the final file with the latest version of every repo by dev set the `.env` `IS_ADMIN_TASK` variable to `true`.
