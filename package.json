@@ -1,0 +1,13 @@
+{
+  "name": "last-packages-versions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Lianel Artiles",
+  "displayName": "Lianel Artiles",
+  "license": "ISC"  
+}
