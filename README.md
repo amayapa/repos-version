@@ -4,7 +4,7 @@ app to get all repository versions inside current directory
 
 ## STEPS
 
-1- run `npm install`
+1. run `npm install`
 
 2. Remember to change the `displayName` property inside `package.json` file.
 
