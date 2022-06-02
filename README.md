@@ -14,7 +14,6 @@ After push your changes check your name in the list by editing readme.
 - [ ] Mauricio Twerda
 - [ ] Jeremías Folgado
 - [ ] Mauricio Giana
-- [ ] Lucas Rodriguez
 - [ ] Ivan Osvaldo Millan
 - [ ] Marina Millán
 - [ ] Fernando Longo
