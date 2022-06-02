@@ -6,6 +6,6 @@ app to get all repository versions inside current directory
 After push your changes check your name in the list.
 
  - [X] Lianel Artiles
- - [] Ivan
+ - [ ] Ivan
 
 
