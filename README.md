@@ -18,7 +18,7 @@ After push your changes check your name in the list.
 - [ ] Ivan Osvaldo Millan
 - [ ] Marina Millán
 - [ ] Fernando Longo
-- [ ] Lianel Artiles
+- [x] Lianel Artiles
 - [ ] Ailin Rutchle
 - [ ] Emanuel Cuvillier
 - [ ] Jorge Baccaro
